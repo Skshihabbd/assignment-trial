@@ -1,0 +1,34 @@
+body {font-family: 'Rubik', sans-serif;
+
+margin: 70px;}
+h1{font-size: 70PX;
+    margin-top: 50px;
+
+    padding-top: 40px;
+}
+
+.orang-color{ color: orangered;}
+.anchor-button{ text-decoration: none;
+background-image: linear-gradient(orangered,red);
+
+
+padding: 25px 50px;
+border-radius: 50px;
+color: white;
+font-weight: 400;
+}
+
+.container-1{ display: flex ;
+   
+    margin-bottom: 100px;
+   
+
+    
+      
+}
+.half-display{ width: 50% ;}
+.half-display img{ width: 100%;}
+p{ margin-bottom: 80px;
+margin-top: 0px;
+font-size: 20px;
+}
